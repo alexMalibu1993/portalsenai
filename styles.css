@@ -1,0 +1,34 @@
+body {
+    background-color: #dcdcdc
+}
+
+#sidebar {
+    min-height: 100vh;
+}
+
+.sidebar {
+    position: fixed;
+}
+
+ .main {
+    margin-left: 240px;
+    /* Ajuste conforme necessário */
+ } 
+
+.container {
+    margin-top: 50px;
+}
+
+.table {
+    margin-top: 2
+}
+h1 {
+    text-align: center;
+}
+
+
+
+
+
+
+
